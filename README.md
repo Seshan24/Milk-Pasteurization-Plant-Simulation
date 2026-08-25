@@ -291,7 +291,10 @@ Real industrial systems require properly validated process parameters, industria
 ## 👨‍💻 Author
 
 **Milk Pasteurization Plant Simulation Project**
+Seshan Rodrigo
 
+LinkedIn: https://www.linkedin.com/in/your-profile
+GitHub: https://github.com/yourusername
 Developed as an interactive Python/Jupyter-based process simulation.
 
 ---

@@ -1,0 +1,9 @@
+# Milk Pasteurization Plant Simulation – Project Description
+
+The **Milk Pasteurization Plant Simulation** is a Python-based educational project designed to simulate the major control stages of an automated milk pasteurization process. The system monitors milk temperature and tank levels, controls simulated valves and motors, calculates the required heating flow rate, maintains the required pasteurization temperature, and controls the cooling process before packaging.
+
+The simulation consists of six main stages: **Storage Tank Control, Balance Tank Control, Heater Regulation, Holding Tube Timing, Cooling Process, and Packaging**. During the heating stage, the system calculates the required hot-water flow rate to achieve a target milk temperature of **72°C**. Once the target temperature is reached, the holding-tube stage simulates a **15-second pasteurization period**. The pasteurized milk is then rapidly cooled to **4°C** before being transferred to the packaging stage.
+
+This project demonstrates fundamental industrial automation and process-control concepts, including sensor-based decision making, actuator control, temperature regulation, mathematical process calculations, safety conditions, timing logic, and sequential process execution.
+
+The project is intended primarily for **educational and simulation purposes**, providing a simple software model of how different components of a milk pasteurization plant can work together as a controlled process.

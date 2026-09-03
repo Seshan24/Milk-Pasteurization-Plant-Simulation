@@ -2,7 +2,7 @@
 
 ### 🥛 Milk Pasteurization Plant Simulation
 
-An interactive **Milk Pasteurization Plant Simulation** developed using **Python and Jupyter Notebook**.
+An interactive **Milk Pasteurization Plant Simulation** developed using **Python**.
 
 This project simulates the main stages of a milk pasteurization process with an interactive control panel, process monitoring, temperature controls, flow-rate controls, and visual status indicators.
 
@@ -137,7 +137,7 @@ After the holding stage, the milk enters the cooling stage.
 
 The simulation cools the milk toward:
 
-```text
+```
 4°C
 ```
 
@@ -151,7 +151,7 @@ After the milk reaches the required cooling temperature, it is transferred to th
 
 The simulation then displays:
 
-```text
+```
 PROCESS COMPLETED SUCCESSFULLY
 ```
 
@@ -189,7 +189,7 @@ The interactive UI provides the following controls:
 
 Install the required packages:
 
-```bash
+```
 pip install ipywidgets notebook
 ```
 
@@ -199,20 +199,20 @@ pip install ipywidgets notebook
 
 ### Step 1 — Clone or download the project
 
-```bash
+```
 git clone <your-repository-url>
 cd Milk-Pasteurization-Plant-Simulation
 ```
 
 ### Step 2 — Install dependencies
 
-```bash
+```
 pip install ipywidgets notebook
 ```
 
 ### Step 3 — Start Jupyter Notebook
 
-```bash
+```
 jupyter notebook
 ```
 

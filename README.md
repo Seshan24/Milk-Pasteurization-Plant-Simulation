@@ -260,7 +260,7 @@ The project demonstrates:
 
 ## ⚙️ Default Simulation Parameters
 
-```text
+```
 Initial Milk Temperature: 5°C
 Milk Flow Rate: 2.5 kg/s
 
@@ -290,8 +290,9 @@ Real industrial systems require properly validated process parameters, industria
 ## 👨‍💻 Author
 
 **Milk Pasteurization Plant Simulation Project**
-: *Seshan Rodrigo*
-
+~~~
+ *Seshan Rodrigo*
+~~~
 **LinkedIn:** https://www.linkedin.com/in/your-profile
 **GitHub:** https://github.com/yourusername
 Developed as an interactive Python/Jupyter-based process simulation.
@@ -304,5 +305,3 @@ This project may be used, modified, and extended for educational, academic, and 
 
 ---
 
-```
-```

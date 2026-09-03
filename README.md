@@ -1,7 +1,6 @@
-# README.md
 
-````
-# 🥛 Milk Pasteurization Plant Simulation
+
+### 🥛 Milk Pasteurization Plant Simulation
 
 An interactive **Milk Pasteurization Plant Simulation** developed using **Python and Jupyter Notebook**.
 
@@ -31,7 +30,7 @@ This project simulates the main stages of a milk pasteurization process with an 
 
 ## 🔄 Process Flow
 
-```text
+```
 ┌─────────────────┐
 │  Storage Tank   │
 └────────┬────────┘
@@ -111,7 +110,7 @@ to calculate the required hot-water flow.
 
 The default pasteurization target is:
 
-```text
+```
 72°C
 ```
 

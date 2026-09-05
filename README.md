@@ -6,6 +6,8 @@ An interactive **Milk Pasteurization Plant Simulation** developed using **Python
 
 This project simulates the main stages of a milk pasteurization process with an interactive control panel, process monitoring, temperature controls, flow-rate controls, and visual status indicators.
 
+[![Follow me on GitHub](https://img.shields.io/github/followers/Seshan24?label=Follow%20me%20on%20GitHub&style=social)](https://github.com/Seshan24)
+
 ---
 
 ## 🚀 Features

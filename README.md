@@ -307,3 +307,5 @@ This project may be used, modified, and extended for educational, academic, and 
 
 ---
 
+
+⭐ If you find this project useful, consider giving the repository a star!
